@@ -1,8 +1,7 @@
 
 uniform float time;
-
 varying vec2 vUv;
-varying float vNoise;
+
 
 void main() {
     vec3 newPosition = position;
