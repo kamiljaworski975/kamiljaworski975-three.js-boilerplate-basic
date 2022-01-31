@@ -1,0 +1,21 @@
+{
+  "name": "html_worlds",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel serve index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fontfaceobserver": "^2.1.0",
+    "gsap": "^3.9.1",
+    "imagesloaded": "^4.1.4",
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.2.1"
+  }
+}

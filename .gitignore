@@ -1,0 +1,14 @@
+NODE_MODULES
+
+dist/
+
+dist
+
+.parcel-cache/
+
+parcel-cache/
+
+dist/index.a8f04b30.js
+dist/index.a8f04b30.js.map
+js/shaders/fragment_sphere.glsl
+.parcel-cache/data.mdb
